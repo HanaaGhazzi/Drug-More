@@ -11,3 +11,5 @@ function myFunction() {
       "Hello " + username + "  Don’t Forget to Take Your Medicines ";
     }
 }
+
+myFunction();
